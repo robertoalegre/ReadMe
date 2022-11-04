@@ -8,7 +8,7 @@ Mi nombre Roberto, soy Técnico en Desarrollo de Software 💻. Actualmente me e
   <br>
   <a href="mailto:roberalegre14@gmail.com">📧 email</a>
   
-  <a href="https://www.linkedin.com/in/roberto-alegre96/">💼 Perfil en LinkedIn<a>
+  <a href="https://www.linkedin.com/in/roberto-alegre96/" target=_blank>💼 Perfil en LinkedIn<a>
 
  
 
