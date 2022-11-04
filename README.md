@@ -1,9 +1,10 @@
 console.log('Hello World!!👋')
---------------------------------------------------------
+------------------------------------------------------
+<b>Tecnologías: HTML | CSS | JavaScript | GIT | Java | SQL<b>
+<hr>
 
 Mi nombre Roberto, soy Técnico en Desarrollo de Software 💻. Actualmente me encuentro formándome como desarrollador web. 
 - Soy estudainte del Programa ONE de Oracle y de Argentina Programa.
-- Tengo conocimientos en las tecnologías HTML, CSS y JavaScript
 - 📫 <b>Cómo contactarme:<b> 
   <br>
   <a href="mailto:roberalegre14@gmail.com">📧 email</a>
